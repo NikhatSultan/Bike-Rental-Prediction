@@ -4,6 +4,7 @@ This project predicts the total number of bikes rented on a daily basis using ma
 ## 📁 Project Files
 
 - `bike_rental_prediction.R`: R script for data cleaning, EDA, model training, and evaluation.
+- 'Output Screenshots-Bike rental project'
 - `1657875746_day.xlsx`: Input dataset used for training and testing 
 
 ## 🧠 Techniques Used
